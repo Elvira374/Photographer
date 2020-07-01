@@ -707,6 +707,10 @@ footer {
 }
 
 @media screen and (max-width: 550px) {
+    .title-h1 {
+        font-size: 40px;
+    }
+    
     .service {
         grid-template: repeat(6, 1fr)/1fr;
     }
